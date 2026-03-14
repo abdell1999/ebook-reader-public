@@ -1,1 +1,0 @@
-import{p as e,o as t,c as a}from"./xHfvlK6H.js";import{_ as r}from"./DlAUqK2U.js";const o={class:"html-reader-wrapper"},s=e({__name:"HtmlReader",setup(_){return(c,n)=>(t(),a("div",o))}}),d=Object.assign(r(s,[["__scopeId","data-v-68cd3e1d"]]),{__name:"HtmlReader"});export{d as default};
