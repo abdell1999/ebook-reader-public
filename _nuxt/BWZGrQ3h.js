@@ -1,0 +1,1 @@
+import{p as e,o as t,c as a}from"./BTlJmxhj.js";import{_ as r}from"./DlAUqK2U.js";const o={class:"txt-reader-wrapper"},s=e({__name:"TxtReader",setup(_){return(c,n)=>(t(),a("div",o))}}),m=Object.assign(r(s,[["__scopeId","data-v-2e1b85a6"]]),{__name:"TxtReader"});export{m as default};
