@@ -1,0 +1,1 @@
+const e=["yellow","green","blue","pink","orange"],a={yellow:"rgba(255, 235, 59, 0.35)",green:"rgba(76, 175, 80, 0.35)",blue:"rgba(66, 165, 245, 0.35)",pink:"rgba(236, 64, 122, 0.35)",orange:"rgba(255, 152, 0, 0.35)"};export{e as H,a};
