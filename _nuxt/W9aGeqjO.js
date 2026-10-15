@@ -1,1 +1,0 @@
-const c="p, h1, h2, h3, h4, h5, h6, li, blockquote, figcaption, td, th",l=n=>Array.from(n.querySelectorAll(c)).map(t=>{const r=t.ownerDocument.createTreeWalker(t,4),o=[];for(;r.nextNode();){const e=r.currentNode;e.parentElement?.closest(c)===t&&o.push(e)}return{element:t,textNodes:o,text:o.map(e=>e.data).join("")}});export{l as c};
