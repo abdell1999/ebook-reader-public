@@ -1,0 +1,1 @@
+const r=async e=>{const t=new AbortController,n=setTimeout(()=>t.abort(),8e3);try{const o=await fetch(e,{signal:t.signal});return o.ok?await o.blob():null}catch{return null}finally{clearTimeout(n)}};export{r as f};
