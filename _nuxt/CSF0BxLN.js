@@ -1,0 +1,1 @@
+import{N as l,a1 as u}from"./CFzdGhnf.js";const a="tts:azure-credentials",g=()=>{const{get:s,set:n,remove:c}=u(),e=l(null);return{credentials:e,load:async()=>{e.value=await s(a)},save:async(o,r)=>{const t={key:o,region:r};await n(a,t),e.value=t},clear:async()=>{await c(a),e.value=null}}};export{g as u};
